@@ -1,3 +1,4 @@
+Name: Irma Smajlovic & Anthony Ducharme (Team 28)
 # Number Theory: Addition
 
 In this lab, you’ve learned about One Hot and Binary state machines and how to build them.
